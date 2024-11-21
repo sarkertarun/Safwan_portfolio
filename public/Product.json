@@ -1,0 +1,83 @@
+{
+    "categories": [
+      {
+        "name": "All",
+        "items": []
+      },
+      {
+        "name": "Branding",
+        "items": [
+          {
+            "title": "Logo Design",
+            "description": "Creative and modern logo design services.",
+            "image": "./src/images/canva1.jpg"
+            
+          },
+          {
+            "title": "Brand Identity",
+            "description": "Complete brand identity package to represent your business.",
+            "image": "/images/brand-identity.jpg"
+            
+          }
+        ]
+      },
+      {
+        "name": "Photography",
+        "items": [
+            {
+                "title": "Events Photography",
+                "description": "Professional Events photography for individuals program.",
+                "image": "/images/portrait-photography.jpg"
+                
+            },
+          {
+            "title": "Portrait Photography",
+            "description": "Professional portrait photography for individuals and families.",
+            "image": "/images/portrait-photography.jpg"
+            
+          },
+          {
+            "title": "Product Photography",
+            "description": "High-quality product shots to enhance your online store.",
+            "image": "/images/product-photography.jpg"
+            
+          }
+        ]
+      },
+      {
+        "name": "Fashion",
+        "items": [
+          {
+            "title": "Men's Fashion",
+            "description": "The latest trends in men's clothing and accessories.",
+            "image": "/images/mens-fashion.jpg"
+            
+          },
+          {
+            "title": "Women's Fashion",
+            "description": "Stylish and contemporary women's fashion.",
+            "image": "/images/womens-fashion.jpg"
+            
+          }
+        ]
+      },
+      {
+        "name": "Product",
+        "items": [
+          {
+            "title": "Electronics",
+            "description": "Top-quality gadgets and electronics for everyday use.",
+            "image": "/images/electronics.jpg"
+           
+          },
+          {
+            "title": "Home Appliances",
+            "description": "Modern and energy-efficient home appliances.",
+            "image": "/images/home-appliances.jpg"
+            
+          }
+        ]
+      }
+    ]
+  }
+  
